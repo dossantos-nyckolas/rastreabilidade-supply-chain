@@ -1,0 +1,21 @@
+{
+    "sucesso": true,
+    "dados": {
+        "produto": {
+            "nome": "Notebook Dell",
+            "lote": "LOTE-2024-001",
+            "statusAtual": "ENTREGUE"
+        },
+        "etapas": {
+            "producao": {
+                "status": "concluido"
+            },
+            "transporte": {
+                "status": "em_transito"
+            },
+            "entrega": {
+                "status": "entregue"
+            }
+        }
+    }
+}
